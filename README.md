@@ -1,7 +1,9 @@
-# Começando a entender como React funciona com o Projeto Ceep - Bloco de Notas
+# Projeto Ceep - Bloco de Notas com React
+Começando a entender como React funciona com o Projeto Ceep - Bloco de Notas
 
 ## Criação do projeto ceep
-npx create-react-app ceep
+
+### `npx create-react-app ceep`
 
 Na raiz do projeto, execute o comando:
 
